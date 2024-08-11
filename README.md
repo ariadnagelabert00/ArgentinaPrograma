@@ -1,0 +1,2 @@
+Hola! Mi nombre es Ariadna Gelabert, soy de Bs.As., Argenitna. 
+El repositorio ArgentinaPrograma contiene 3 carpetas: una es una aproximación a la evaluación integradora que tuvimos en el curso (carpeta "Aproximación"), la segunda (carpeta "Integrador") es la evaluación final del curso y la última (carpeta "Alumnos") es un proyecto que realicé fuera del curso para mostrar los conocimientos adquiridos, los tres proyectos fueron desarrollados en JAVA utilizando IntelliJ IDEA.
